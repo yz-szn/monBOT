@@ -1,10 +1,22 @@
+```markdown
 # monBOT
-
-Ini adalah repositori untuk monBOT, sebuah bot yang dirancang untuk [jelaskan tujuan bot].
-
 ## Cara Menggunakan
 
-Untuk mengkloning repositori ini, jalankan perintah berikut di terminal Anda:
-
-```bash
+### 1. Clone Repositori
+Jalankan perintah berikut di terminal:
+```sh
 git clone https://github.com/yz-szn/monBOT.git
+cd monBOT
+```
+
+### 2. Instalasi Dependensi
+Pastikan Python 3.6 atau lebih baru sudah terinstal. Kemudian, jalankan:
+```sh
+pip install -r requirements.txt
+```
+
+### 3. Menjalankan Bot
+Untuk menjalankan bot, gunakan perintah:
+```sh
+python run.py
+```
