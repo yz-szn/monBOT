@@ -1,4 +1,3 @@
-markdown
 # monBOT
 
 Ini adalah repositori untuk monBOT, sebuah bot yang dirancang untuk [jelaskan tujuan bot].
