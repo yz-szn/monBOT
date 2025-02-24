@@ -1,9 +1,3 @@
-
-```markdown
-# monBOT
-
-## Cara Menggunakan
-
 ### 1. Clone Repositori
 Jalankan perintah berikut di terminal:
 ```sh
@@ -21,5 +15,4 @@ pip install -r requirements.txt
 Untuk menjalankan bot, gunakan perintah:
 ```sh
 python run.py
-```
 ```
