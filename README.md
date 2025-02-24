@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ### 3. Menjalankan Bot
 Untuk menjalankan bot, gunakan perintah:
 ```sh
-python run.py
+py run.py
 ```
